@@ -1,6 +1,6 @@
 # Ansible Installation
 
-Ansible is an open source automation platform. It is very, very simple to setup and yet powerful. Ansible can help you with configuration management, application deployment, task automation.
+Ansible is an open source automation platform. It is very, very simple to setup and yet powerful. Ansible can help you with configuration management, application deployment, task automation it used in devops life cycle
 
 ### Follow this in **[YouTube](https://www.youtube.com/watch?v=79xFyOc_eEY)
 
